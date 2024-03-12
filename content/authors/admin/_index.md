@@ -6,9 +6,11 @@ title: Retail Hedge Investor
 first_name: Retail
 last_name: Hedge Investor
 
-# # Status emoji
-# status:
-#   icon: ☕️
+name_pronounciation: ''
+
+# Status emoji
+status:
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +20,7 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Retail Hedge Investor
+  - name: ''
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
