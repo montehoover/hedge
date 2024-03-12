@@ -11,9 +11,9 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
+    site_type: Business
+    local_business_type: 'Wealth Management Firm'
+    org_name: 'Retail Hedge Investor'
     description: 'Risk-parity investing through retail hedge funds.'
     twitter: 'mfobserver'
   analytics:
