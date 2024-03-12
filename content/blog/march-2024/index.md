@@ -1,6 +1,6 @@
 ---
 title: 1st Quarter Newsletter
-data: 2024-03-11
+date: 2024-03-11
 ---
 
 Since the start of the year, the S&P 500 is up over 8%, multi-strategy has cemented its place in the hedge fund world, and Bitcoin has returned to its all-time highs. What do you need to know in this environment to make smart investing decisions?  

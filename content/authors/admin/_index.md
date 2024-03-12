@@ -16,15 +16,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-# role: Data Scientist
+role: Risk-parity investing through retail hedge funds.
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: ''
-    # url: https://www.stanford.edu/
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Risk-parity investing through retail hedge funds.
+bio: ''
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,7 +33,7 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/mfobserver
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
@@ -53,4 +53,4 @@ highlight_name: true
 website: ""
 ---
 
-Risk-parity investing through retail hedge funds.
+<!-- Any long text can go below here -->
