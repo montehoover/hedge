@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Monte Hoover
+title: Retail Hedge Investor
 
 # Full name (for SEO)
-first_name: Monte
-last_name: Hoover
+first_name: Retail
+last_name: Hedge Investor
 
 # # Status emoji
 # status:
@@ -14,7 +14,7 @@ last_name: Hoover
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+# role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
